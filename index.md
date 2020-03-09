@@ -15,13 +15,13 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique : Est-ce qu'une guerre nucléaire aboutit nécessairement à la destruction de l'humanité ?** 
 
-**Hypothèse principale :**
+**Hypothèse principale : La conséquence d'une guerre nucléaire est nécessairement la destruction de l'humanité**
 
 **Hypothèses secondaires :** 
 
-**Objectifs :**
+**Objectifs : Déterminer les issuses possibles d'une guerre nucléaire**
 
 **Critère(s) d'évaluation :**
 
