@@ -12,3 +12,12 @@ Placer des barres colorées: (https://matplotlib.org/gallery/subplots_axes_and_f
 
 On peut choisir de représenter chaque pays par une couleur, ou bien de représenter chaque alliance par une couleur.
 Un pays est représenté par un carré
+
+Projections géographiques: (https://matplotlib.org/gallery/subplots_axes_and_figures/geo_demo.html#sphx-glr-gallery-subplots-axes-and-figures-geo-demo-py)
+
+Animation Pyplot: (https://matplotlib.org/gallery/animation/animation_demo.html#sphx-glr-gallery-animation-animation-demo-py)
+
+Simulation de pluie: (https://matplotlib.org/gallery/animation/rain.html#sphx-glr-gallery-animation-rain-py)
+
+Camembert: (https://matplotlib.org/gallery/pie_and_polar_charts/pie_features.html#sphx-glr-gallery-pie-and-polar-charts-pie-features-py)
+           (https://matplotlib.org/gallery/pie_and_polar_charts/pie_and_donut_labels.html#sphx-glr-gallery-pie-and-polar-charts-pie-and-donut-labels-py)
