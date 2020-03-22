@@ -23,7 +23,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 **Objectifs : Déterminer les issuses possibles d'une guerre nucléaire**
 
-**Critère(s) d'évaluation :**
+**Critère(s) d'évaluation : Premier pays qui lance la bombe**
 
 ## Présentation structurée des résultats
 
