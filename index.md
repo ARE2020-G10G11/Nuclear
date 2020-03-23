@@ -19,7 +19,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 **Hypothèse principale : La conséquence d'une guerre nucléaire est nécessairement la destruction de l'humanité**
 
-**Hypothèses secondaires :** 
+**Hypothèses secondaires :La guerre nucléaire touche exclusivement les pays en possession de l'arme nucléaire** 
 
 **Objectifs : Déterminer les issuses possibles d'une guerre nucléaire**
 
