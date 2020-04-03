@@ -1,0 +1,1 @@
+Folders dedicated for images
