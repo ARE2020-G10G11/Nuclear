@@ -1,0 +1,19 @@
+Initialement, on choisit le premier pays qui attaque (appelons le "1"), puis le pays (appelons le "2") qu'il attaquera ensuite. 
+A partir de ce point, un pays attaqué peut être en capacité de riposter ou non (il faut un critère qui permet d'en décider). 
+Si "2" riposte, c'est soit sur le pays attaquant "1", soit sur un allié de "1".
+Le pays qui est touché par la bombe de "2" joue alors le même rôle que "2" sur les lignes 2 et 3.
+Cela constitue la première version de l'algorithme.
+
+Dans le cas où "2" riposte sur un des alliés de "1" on pourra  faire un choix aléatoire.
+Pour le critère de riposte, on peut considérer la taille du pays qui a été attaqué ou bien même la taille de l'attaquant.
+Par exemple, si un petit pays "2" est attaqué par un gros pays "1", peut-être que "2" n'a pas intérêt à riposter sur "1".
+Ce serait une sorte d'indice d'intimidation. 
+Comme les pays correspondent à un certains nombre de pixels, on pourrait fixer cet indice en fonction de cela.
+Par exemple, si "1" fait au moins le double de pixels de "2", alors "2" n'attaque pas.
+On peut aussi considérer la taille du pays attaqué par rapport à la bombe ou le nombre de bombes qu'il a reçu. 
+Ce serait une espèce de seuil de tolérance. 
+Par exemple, un pays de 10 pixels de peut plus riposter si il a reçu plus de 2 bombes.
+Il faudra ensuite réfléchir si on fait différent type de bombe.
+Dans ce cas, il faut voir ce que l'on considère comme caractéristiques pour une bombe.
+Puissance, rayon d'action et portée par exemple. 
+Pour cela on peut mettre un espèce de coefficient pour chaque bombe. Une valeur qui permet de caractériser la bombe.
