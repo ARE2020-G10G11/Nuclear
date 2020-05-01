@@ -221,5 +221,7 @@ while launched:
 
                             pays_attaque = pays_attaquant
                             pays_attaquant = attaquant
+                                
+                        launched = False
 
 pygame.quit()
