@@ -35,15 +35,15 @@ dimension du pays, alliance.
 pays = {'Belgique' :           ((255, 237, 208, 255), (492, 226),    0, (  0,   0),    9,    100/9, (  0,   0,  50,  50), 'OTAN'),
         'Canada' :             ((255, 237, 215, 255), (158, 192),    0, (  0,   0), 2990, 100/2990, ( 74,  93, 279, 159), 'OTAN'),
         'Danemark' :           ((255, 237, 204, 255), (510, 208),    0, (  0,   0),  662,  100/662, (  0,   0,  50,  50), 'OTAN'),
-        'Etats-Unis' :         ((255, 237, 216, 255), (126, 260), 6450, (130, 719), 2945, 100/2945, (  7, 123, 245, 199), 'OTAN'),
-        'France' :             ((255, 237, 214, 255), (486, 244),  300, ( 90, 743),  165,  100/165, (463, 226,  42,  37), 'OTAN'),
+        'Etats-Unis' :         ((255, 237, 216, 255), (126, 260), 6450, (130, 725), 2945, 100/2945, (  7, 123, 245, 199), 'OTAN'),
+        'France' :             ((255, 237, 214, 255), (486, 244),  300, ( 90, 749),  165,  100/165, (463, 226,  42,  37), 'OTAN'),
         'Islande' :            ((255, 237, 212, 255), (430, 169),    0, (  0,   0),   31,   100/31, (  0,   0,  50,  50), 'OTAN'),
         'Italie' :             ((255, 237, 209, 255), (522, 257),    0, (  0,   0),   90,   100/90, (  0,   0,  50,  50), 'OTAN'),
         'Luxembourg' :         ((255, 237, 207, 255), (497, 230),    0, (  0,   0),    1,    100/1, (  0,   0,  50,  50), 'OTAN'),
         'Norvège' :            ((255, 237, 202, 255), (520, 172),    0, (  0,   0),  115,  100/115, (  0,   0,  50,  50), 'OTAN'),
         'Pays-Bas' :           ((255, 237, 206, 255), (511, 207),    0, (  0,   0),   12,   100/12, (  0,   0,  50,  50), 'OTAN'),
         'Portugal' :           ((255, 237, 210, 255), (445, 272),    0, (  0,   0),   28,   100/28, (  0,   0,  50,  50), 'OTAN'),
-        'Royaume-Uni' :        ((255, 237, 213, 255), (473, 219),  215, (152, 767),   74,   100/74, (446, 198,  38,  32), 'OTAN'),
+        'Royaume-Uni' :        ((255, 237, 213, 255), (473, 219),  215, (152, 773),   74,   100/74, (446, 198,  38,  32), 'OTAN'),
         'Grèce' :              ((255, 237, 191, 255), (553, 270),    0, (  0,   0),   40,   100/40, (  0,   0,  50,  50), 'OTAN'),
         'Turquie' :            ((255, 237, 188, 255), (601, 271),    0, (  0,   0),  235,  100/235, (  0,   0,  50,  50), 'OTAN'),
         'Allemagne' :          ((255, 237, 205, 255), (512, 225),    0, (  0,   0),  107,  100/107, (  0,   0,  50,  50), 'OTAN'),
@@ -61,16 +61,16 @@ pays = {'Belgique' :           ((255, 237, 208, 255), (492, 226),    0, (  0,   
         'Albanie' :            ((255, 237, 190, 255), (547, 264),    0, (  0,   0),    9,    100/9, (  0,   0,  50,  50), 'OTAN'),
         'Croatie' :            ((255, 237, 194, 255), (532, 251),    0, (  0,   0),   17,   100/17, (  0,   0,  50,  50), 'OTAN'),
         'Monténégro' :         ((255, 237, 189, 255), (539, 254),    0, (  0,   0),    4,    100/4, (  0,   0,  50,  50), 'OTAN'),
-        'Chine' :              ((203, 255, 185, 255), (839, 285),  270, (282, 719), 2874, 100/2874, (734, 203, 182, 141), 'OCS'),
-        'Russie' :             ((203, 255, 186, 255), (761, 171), 6600, (293, 743), 5129, 100/5129, (562, 101, 406, 161), 'OCS'),
+        'Chine' :              ((203, 255, 185, 255), (839, 285),  270, (282, 725), 2874, 100/2874, (734, 203, 182, 141), 'OCS'),
+        'Russie' :             ((203, 255, 186, 255), (761, 171), 6600, (293, 749), 5129, 100/5129, (562, 101, 406, 161), 'OCS'),
         'Kazakhstan' :         ((203, 255, 184, 255), (703, 232),    0, (  0,   0),  816,  100/816, (  0,   0,  50,  50), 'OCS'),
         'Kirghizistan' :       ((203, 255, 183, 255), (732, 259),    0, (  0,   0),   59,   100/59, (  0,   0,  50,  50), 'OCS'),
         'Tadjikistan' :        ((203, 255, 181, 255), (724, 270),    0, (  0,   0),   43,   100/43, (  0,   0,  50,  50), 'OCS'),
         'Ouzbékistan' :        ((203, 255, 182, 255), (690, 258),    0, (  0,   0),  134,  100/134, (  0,   0,  50,  50), 'OCS'),
-        'Inde' :               ((203, 255, 180, 255), (765, 338),  130, (272, 767),  985,  100/985, (725, 282, 104, 114), 'OCS'),
-        'Pakistan' :           ((203, 255, 179, 255), (726, 310),  140, (461, 719),  264,  100/264, (697, 278,  53,  53), 'OCS'),
-        'Corée du Nord' :      ((255, 191, 196, 255), (913, 256),   15, (433, 743),   36,   100/36, (901, 242,  20,  26), 'COREE DU NORD'),
-        'Israël' :             ((191, 238, 255, 255), (598, 304),   80, (518, 767),    7,    100/7, (595, 294,   6,  15), 'ISRAEL')}
+        'Inde' :               ((203, 255, 180, 255), (765, 338),  130, (272, 773),  985,  100/985, (725, 282, 104, 114), 'OCS'),
+        'Pakistan' :           ((203, 255, 179, 255), (726, 310),  140, (461, 725),  264,  100/264, (697, 278,  53,  53), 'OCS'),
+        'Corée du Nord' :      ((255, 191, 196, 255), (913, 256),   15, (433, 749),   36,   100/36, (901, 242,  20,  26), 'COREE DU NORD'),
+        'Israël' :             ((191, 238, 255, 255), (598, 304),   80, (518, 773),    7,    100/7, (595, 294,   6,  15), 'ISRAEL')}
 
 position_pays = pygame.image.load("Images/Cartes/positions pays.png")
 
@@ -171,6 +171,27 @@ while launched:
                         pays_attaque = nom_pays
 
                         fond = pygame.image.load("Images/Cartes/positions pays.png").convert_alpha()
+
+                        SWSimp_font = pygame.font.SysFont("SWSimp", 12)
+                        
+                        for nom_pays, infos in pays.items():
+                            couleur, pos_bombe, nb_bombes, pos_nb_bombe, etat, coef, pos_pays, alliance = infos
+                            nombre_bombes = SWSimp_font.render(str(nb_bombes), True, noir)
+
+                            pos_x, pos_y = pos_nb_bombe
+                            width = nombre_bombes.get_width()
+                            height = nombre_bombes.get_height()
+
+                            for a in range(width):
+                                x = a + pos_x
+                                
+                                for b in range(height):
+                                    y = b + pos_y
+                                    
+                                    if nombre_bombes.get_at((a,b)) != (0, 0, 0, 0):
+                                        fond.set_at((x, y), (0, 0, 0, 255))
+
+                        fenetre.blit(fond, (0,0))
                         pygame.display.flip()
 
                         attaque = True
@@ -195,15 +216,13 @@ while launched:
                                             new_couleur, dif = Couleurs.TSV_to_RGB(couleur_attaque, coef_attaque)
                                             fond.set_at((i,j), new_couleur)
 
+                                new_couleur, dif = Couleurs.TSV_to_RGB(couleur_attaque, coef_attaque)
                                 couleur_attaque = new_couleur
                                 R, G, B, A = couleur_attaque
                                 r, g, b = dif
 
                             if R-r < 0 or G-g < 0 or B-b < 0:
                                 couleur_attaque = (0, 0, 0, 255)
-
-                            fenetre.blit(fond,(0,0))
-                            pygame.display.flip()
                             
                             pays[pays_attaque] = (couleur_attaque, (x_attaque, y_attaque), nb_bombes_attaque, pos_nb_bombe_attaque, etat_attaque - 1, coef_attaque, pos_pays_attaque, alliance_attaque)
                             
@@ -219,9 +238,31 @@ while launched:
 
                             pays[attaquant] = (couleur, pos_bombe, nb_bombes - 1, pos_nb_bombe, etat, coef, pos_pays, alliance)
 
+                            nombre_bombes = SWSimp_font.render(str(nb_bombes-1), True, noir)
+
+                            pos_x, pos_y = pos_nb_bombe
+                            width = nombre_bombes.get_width()
+                            height = nombre_bombes.get_height()
+
+                            for a in range(33):
+                                for b in range(height):
+                                    fond.set_at((a + pos_x, b + pos_y), (255,255,255,255))
+
+                            for a in range(width):
+                                x = a + pos_x
+                                
+                                for b in range(height):
+                                    y = b + pos_y
+                                    
+                                    if nombre_bombes.get_at((a,b)) != (0, 0, 0, 0):
+                                        fond.set_at((x, y), (0, 0, 0, 255))
+                                
+                            fenetre.blit(fond, (0,0))
+                            pygame.display.flip()
+
                             pays_attaque = pays_attaquant
                             pays_attaquant = attaquant
-                                
+
                         launched = False
 
 pygame.quit()
